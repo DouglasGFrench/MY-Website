@@ -17,7 +17,10 @@ body{
     color: #f4f4f4;
 }
 #navbar{
-    background-color: rgb(194, 147, 255);
+    background-color: rgb(161, 110, 75);
+    border: #000 solid;
+    background-position: center;
+    min-height: 50px;
     color: #f4f4f4;
 }
 #navbar ul{
